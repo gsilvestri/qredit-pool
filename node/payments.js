@@ -18,6 +18,7 @@ var callback = function (error, response, body) {
 var nethashExpected = constants.MAIN_NET_NETHASH;
 var passphrase = phassphrases.PASSPHRASE_MAINNET;
 var secondPassphrase = phassphrases.SECOND_PASSPHRASE_MAINNET;
+ripa.crypto.setNetworkVersion(58);
 if (ENDPOINT === constants.DEV_NET_ENDPOINT) {
     payments = require('./paymentsDevNET');
     ripa.crypto.setNetworkVersion(ripa.networks.devnet.pubKeyHash);
