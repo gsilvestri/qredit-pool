@@ -1,7 +1,7 @@
 {"transactions": [
-{"secret": "", "amount": 173014001886, "recipientId": "QZV9bzXGRL2u9pf6f8g66pcJ5eMTAa1R78", "secondSecret": ""},
-{"secret": "", "amount": 365705998113, "recipientId": "QLk2LNpRzzYqRhFPxSjJBa3CHrmH4keNow", "secondSecret": ""}
-],
+{"secret": "", "amount": 16289095745, "recipientId": "Qdun8wach8CDEoy9nVBwmjDcY4rPJhpLjP", "secondSecret": ""},
+{"secret": "", "amount": 22307072371, "recipientId": "QZV9bzXGRL2u9pf6f8g66pcJ5eMTAa1R78", "secondSecret": ""},
+{"secret": "", "amount": 46943831882, "recipientId": "QLk2LNpRzzYqRhFPxSjJBa3CHrmH4keNow", "secondSecret": ""}],
  "transactionsPending": [
 ],
  "donations": [
