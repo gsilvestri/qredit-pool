@@ -1,11 +1,11 @@
 {
     "pending": {},
-    "lastforged": 2880000000000,
-    "lastpayout": 1544975441,
+    "lastforged": 3181600000000,
+    "lastpayout": 1545593680,
     "accounts": {
         "QLk2LNpRzzYqRhFPxSjJBa3CHrmH4keNow": {
             "pending": 0.0,
-            "received": 14995.22195015587
+            "received": 15862.985723161173
         },
         "QZV9bzXGRL2u9pf6f8g66pcJ5eMTAa1R78": {
             "pending": 0.0,
@@ -13,7 +13,11 @@
         },
         "Qdun8wach8CDEoy9nVBwmjDcY4rPJhpLjP": {
             "pending": 0.0,
-            "received": 1405.312142017477
+            "received": 1744.9252537839698
+        },
+        "QixcDR6CVKcUwsspeanzpLQhk2Z8Jq5uJM": {
+            "pending": 0.0,
+            "received": 903.8231152282048
         }
     }
 }
