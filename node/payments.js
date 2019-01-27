@@ -4,12 +4,13 @@ var phassphrases = require('./passphrases');
 var constants = require('./constants');
 var payments = require('../payments');
 var logger = require('winston');
-logger.level = 'info';
+logger.level = 'debug';
 
 const ENDPOINT = constants.MAIN_NET_ENDPOINT;//constants.DEV_NET_ENDPOINT;//
 const SEND = true;
 
 var callback = function (error, response, body) {
+    logger.debug('Response: %s', JSON.stringify(response));
     if (error)
         logger.error(error);
     else
@@ -93,6 +94,7 @@ if (payments !== null) {
                 Send transaction
             */
             if (SEND) {
+                logger.debug('API: ' + ENDPOINT + constants.TRANSACTIONS_ENDPOINT);
                 request({
                     url: ENDPOINT + constants.TRANSACTIONS_ENDPOINT,
                     json: transactionsRequest,

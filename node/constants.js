@@ -1,12 +1,12 @@
-const MAIN_NET_ENDPOINT = 'http://185.85.18.192:4100'; 
+const MAIN_NET_ENDPOINT = 'http://136.144.170.17:4103'; 
 const MAIN_NET_NETHASH = '5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193';
 const DEV_NET_ENDPOINT = '';
 const DEV_NET_NETHASH = '';
-const GET_NET_HASH_ENDPOINT = '/api/blocks/getNetHash';
-const TRANSACTIONS_ENDPOINT = '/peer/transactions';
+const GET_NET_HASH_ENDPOINT = '/api/blocks/getNethash';
+const TRANSACTIONS_ENDPOINT = '/api/transactions';//'/peer/transactions';
 const HEADER_CONTENT_TYPE = 'application/json';
 const HEADER_OS = 'qredit-pool';
-const HEADER_PORT = 5500;
+const HEADER_PORT = 4101;
 const HEADER_VERSION = require('./package.json').version;
 const PRECISION = 8;
 const MESSAGE_1 = 'pool sharing: thank You for your vote';
