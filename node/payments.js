@@ -4,7 +4,7 @@ var phassphrases = require('./passphrases');
 var constants = require('./constants');
 var payments = require('../payments');
 var logger = require('winston');
-logger.level = 'debug';
+logger.level = 'info';
 
 const ENDPOINT = constants.MAIN_NET_ENDPOINT;//constants.DEV_NET_ENDPOINT;//
 const SEND = true;
