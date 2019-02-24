@@ -3,7 +3,7 @@
 	"node": "http://136.144.170.17:4103",
 	"nodepay": "http://136.144.170.17:4103",
 	"pubkey": "03e49b0eff355e2623824b5c82e47d9ddb253ade33b0b7c3a4b3b549a284250e19",
-	"percentage": 70,
+	"percentage": 95,
 	"logfile": "poollogs.json",
 	"minpayout": 0.2,
 	"secret": "",
