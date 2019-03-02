@@ -18,7 +18,7 @@ app.controller('indexCtrl', function($scope, $http) {
         }
     });
 
-    $http.get ('https://api.qredit.cloud/api/delegates/get?username=qredit_cryptography').then (function (res) {
+    $http.get ('https://qredit.cloud/api/delegates/get?username=qredit_cryptography').then (function (res) {
         $scope.delegate = res.data.delegate;
     });
 });
