@@ -6,7 +6,7 @@
     <title>qredit_crypt QREDIT Delegate Pool</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
         crossorigin="anonymous">
-    <link rel="icon" href="https://qredit.io/file/2018/08/cropped-fav-32x32.png" sizes="32x32">
+    <link rel="shortcut icon" type="image/png" href="https://explorer.qredit.io/static/favicon.png" >
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
     <script src="app.js"></script>
@@ -17,12 +17,12 @@
         <h2>qredit_crypt QREDIT Delegate Pool</h2>
         <img src="images/main.jpg" width="80%" class="img-square">
         <h3> Public Pool </h3>
-        <h4> Weekly payouts, 70% shared</h4>
+        <h4> Weekly payouts, 95% shared</h4>
         <div class=""><br> </div>
         <div class="btn-group">
-            <div class="btn btn-secondary"> <a href="http://explorer.qredit.cloud:4200/#/wallets/QLk2LNpRzzYqRhFPxSjJBa3CHrmH4keNow"
+            <div class="btn btn-secondary"> <a href="https://explorer.qredit.io/#/wallets/QLk2LNpRzzYqRhFPxSjJBa3CHrmH4keNow"
                     target="_blank">Delegate info</a></div>
-            <div class="btn btn-secondary"> <a href="https://qredit.io/forum/delegatesx/qredit_crypt-70-share-vote-to-develop-a-great-weekend/#post-4"
+            <div class="btn btn-secondary"> <a href=""
                     target="_blank">Proposal</a></div>
             <div class="btn btn-secondary"> <a href="https://t.me/BitNow" target="_blank">Contact</a></div>
         </div>
@@ -62,7 +62,7 @@
             </thead>
             <tbody>
                 <tr ng-repeat="acc in (accounts|orderBy:'-received')">
-                    <td><a href="http://explorer.qredit.cloud:4200/#/wallets/{{acc.address}}" target="_new">{{acc.address}}</a></td>
+                    <td><a href="https://explorer.qredit.io/#/wallets/{{acc.address}}" target="_new">{{acc.address}}</a></td>
                     <td>{{acc.received|number:4}}</td>
                     <td>{{acc.pending|number:4}}</td>
                 </tr>
