@@ -1,4 +1,4 @@
-const MAIN_NET_ENDPOINT = 'http://136.144.170.17:4103'; 
+const MAIN_NET_ENDPOINT = 'https://qredit.api.cryptdelegate.com/'; 
 const MAIN_NET_NETHASH = '5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193';
 const DEV_NET_ENDPOINT = '';
 const DEV_NET_NETHASH = '';

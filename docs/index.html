@@ -20,7 +20,11 @@
         <h4> Weekly payouts, 95% shared</h4>
         <div class=""><br> </div>
         <div class="btn-group">
-            <div class="btn btn-secondary"> <a href="https://explorer.qredit.io/#/wallets/QLk2LNpRzzYqRhFPxSjJBa3CHrmH4keNow"
+            <div class="btn btn-secondary"> <a href="https://qredit.explorer.cryptdelegate.com"
+                target="_blank">Explorer</a></div>
+            <div class="btn btn-secondary"> <a href="https://qredit.vote.cryptdelegate.com"
+                target="_blank">Vote Report</a></div>
+            <div class="btn btn-secondary"> <a href="https://qredit.explorer.cryptdelegate.com/wallets/QLk2LNpRzzYqRhFPxSjJBa3CHrmH4keNow"
                     target="_blank">Delegate info</a></div>
             <div class="btn btn-secondary"> <a href="https://pool.digitalwindmill.com/"
                     target="_blank">Pools List</a></div>
@@ -65,7 +69,7 @@
             </thead>
             <tbody>
                 <tr ng-repeat="acc in (accounts|orderBy:'-received')">
-                    <td><a href="https://explorer.qredit.io/#/wallets/{{acc.address}}" target="_new">{{acc.address}}</a></td>
+                    <td><a href="https://qredit.explorer.cryptdelegate.com/#/wallets/{{acc.address}}" target="_new">{{acc.address}}</a></td>
                     <td>{{acc.received|number:4}}</td>
                     <td>{{acc.pending|number:4}}</td>
                 </tr>
