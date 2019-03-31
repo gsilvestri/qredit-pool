@@ -1,12 +1,11 @@
 {"transactions": [
-{"secret": "", "amount": 6098774570, "recipientId": "QcwDC8d4PgHTUunBcdvVXBQRnxyzpHoTor", "secondSecret": ""},
-{"secret": "", "amount": 332709918907, "recipientId": "Qdun8wach8CDEoy9nVBwmjDcY4rPJhpLjP", "secondSecret": ""},
-{"secret": "", "amount": 34562230, "recipientId": "QjKXnNovki82MkLNGmPp4gDBUo2vBpWHfi", "secondSecret": ""},
-{"secret": "", "amount": 21035851024, "recipientId": "QdNFhrZMJCza6w21DzJJTwP36urQAq4hTe", "secondSecret": ""},
-{"secret": "", "amount": 486268060468, "recipientId": "QVSrmQCd7h9Y6C8dXPVBsS4NVoF7aeWEbb", "secondSecret": ""},
-{"secret": "", "amount": 225906387870, "recipientId": "QfGZwmYT313t7SE3hfWxCML4aW7X1PZiSe", "secondSecret": ""},
-{"secret": "", "amount": 268874849187, "recipientId": "QY4LFbTgGauG3ygxzfpH21YeTzPBJxEGU8", "secondSecret": ""},
-{"secret": "", "amount": 49871594764, "recipientId": "QYiTEAtvxpDycvSmk5DGEtrisJTXAa2BHh", "secondSecret": ""}],
+{"secret": "", "amount": 5258047235, "recipientId": "QcwDC8d4PgHTUunBcdvVXBQRnxyzpHoTor", "secondSecret": ""},
+{"secret": "", "amount": 286031938273, "recipientId": "Qdun8wach8CDEoy9nVBwmjDcY4rPJhpLjP", "secondSecret": ""},
+{"secret": "", "amount": 18141907099, "recipientId": "QdNFhrZMJCza6w21DzJJTwP36urQAq4hTe", "secondSecret": ""},
+{"secret": "", "amount": 217477188996, "recipientId": "QiHfPRGvp25pvpmTLXBJ4kJgHByuAZyr2P", "secondSecret": ""},
+{"secret": "", "amount": 418046436105, "recipientId": "QVSrmQCd7h9Y6C8dXPVBsS4NVoF7aeWEbb", "secondSecret": ""},
+{"secret": "", "amount": 65907471306, "recipientId": "QfGZwmYT313t7SE3hfWxCML4aW7X1PZiSe", "secondSecret": ""},
+{"secret": "", "amount": 386587010144, "recipientId": "QY4LFbTgGauG3ygxzfpH21YeTzPBJxEGU8", "secondSecret": ""}],
  "transactionsPending": [
 ],
  "donations": [
