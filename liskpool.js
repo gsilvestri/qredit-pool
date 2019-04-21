@@ -18,6 +18,7 @@ pool();
 
 async function broadcastPayments(_config, _payments, _passphrases, _passphrasesFilename, _autosave) {
 
+	ripa.crypto.setNetworkVersion(58);
 	logger.info('Passphrases Filename: ' + _passphrasesFilename);
 	logger.info('API endpoint: %s', _config.node);
 	if (_payments !== null) {
