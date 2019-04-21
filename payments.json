@@ -1,15 +1,35 @@
-{"transactions": [
-{"secret": "", "amount": 582919971778, "recipientId": "QTssvafiwQTLJFQLZNyRKcHjWe93o6d2DV", "secondSecret": ""},
-{"secret": "", "amount": 5854456594, "recipientId": "QcwDC8d4PgHTUunBcdvVXBQRnxyzpHoTor", "secondSecret": ""},
-{"secret": "", "amount": 246700345731, "recipientId": "Qdun8wach8CDEoy9nVBwmjDcY4rPJhpLjP", "secondSecret": ""},
-{"secret": "", "amount": 85914217166, "recipientId": "Qga8vUBrhVNrB8rU5P8fcpAWGb444eGq51", "secondSecret": ""},
-{"secret": "", "amount": 15741780006, "recipientId": "QdNFhrZMJCza6w21DzJJTwP36urQAq4hTe", "secondSecret": ""},
-{"secret": "", "amount": 360561834253, "recipientId": "QVSrmQCd7h9Y6C8dXPVBsS4NVoF7aeWEbb", "secondSecret": ""},
-{"secret": "", "amount": 19907394469, "recipientId": "Qa3zZiUJLx9gYHP6XWpMvYyZtXmQBUMisL", "secondSecret": ""}],
- "transactionsPending": [
-],
- "donations": [
-],
- "donationsPercentage": [
-]
+{
+    "transactions": [
+        {
+            "recipientId": "QcwDC8d4PgHTUunBcdvVXBQRnxyzpHoTor",
+            "amount": 7843327138
+        },
+        {
+            "recipientId": "Qdun8wach8CDEoy9nVBwmjDcY4rPJhpLjP",
+            "amount": 329490260752
+        },
+        {
+            "recipientId": "Qga8vUBrhVNrB8rU5P8fcpAWGb444eGq51",
+            "amount": 114746080848
+        },
+        {
+            "recipientId": "QdNFhrZMJCza6w21DzJJTwP36urQAq4hTe",
+            "amount": 21092117195
+        },
+        {
+            "recipientId": "QVSrmQCd7h9Y6C8dXPVBsS4NVoF7aeWEbb",
+            "amount": 481562408975
+        },
+        {
+            "recipientId": "Qjd2PoGu6ohyudEHtwoPNDVDvfXVv2XeAF",
+            "amount": 297661917501
+        },
+        {
+            "recipientId": "QZGqnTiBFJJtDoFtDV15N8zc7F8aKuAwC5",
+            "amount": 97593588438
+        }
+    ],
+    "transactionsPending": [],
+    "donations": [],
+    "donationsPercentage": []
 }
