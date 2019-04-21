@@ -1,15 +1,23 @@
 {
 	"coin": "QREDIT",
 	"node": "https://qredit.api.cryptdelegate.com/",
-	"nodepay": "https://qredit.api.cryptdelegate.com/",
+	"MAIN_NET_NETHASH": "5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193",
 	"pubkey": "03e49b0eff355e2623824b5c82e47d9ddb253ade33b0b7c3a4b3b549a284250e19",
 	"percentage": 90,
-	"logfile": "poollogs.json",
+	"logfile": "docs/poollogs.json",
+	"paymentsFile": "payments.json",
 	"minpayout": 0.2,
-	"secret": "",
+	"secret": "passphrases.json",
 	"secondsecret": "",
 	"donations": {},
 	"donationspercentage": {
 	},
-	"skip": []
+	"skip": [],
+	"GET_NET_HASH_ENDPOINT": "/api/blocks/getNethash",
+	"TRANSACTIONS_ENDPOINT": "/api/v2/transactions",
+	"HEADER_CONTENT_TYPE": "application/json",
+	"HEADER_OS": "qredit-pool",
+	"HEADER_PORT": 4101,
+	"MESSAGE_1": "pool sharing - 90%: www.cryptdelegate.com",
+	"MESSAGE_2": "pool sharing: RCF"
 }
