@@ -1,7 +1,7 @@
 {
     "pending": {},
-    "lastforged": 26728600000000,
-    "lastpayout": 1558878240,
+    "lastforged": 28194600000000,
+    "lastpayout": 1559475662,
     "accounts": {
         "QLk2LNpRzzYqRhFPxSjJBa3CHrmH4keNow": {
             "pending": 0,
@@ -13,7 +13,7 @@
         },
         "Qdun8wach8CDEoy9nVBwmjDcY4rPJhpLjP": {
             "pending": 0,
-            "received": 37542.66296019954
+            "received": 39272.96238311095
         },
         "QixcDR6CVKcUwsspeanzpLQhk2Z8Jq5uJM": {
             "pending": 0,
@@ -41,7 +41,7 @@
         },
         "QVSrmQCd7h9Y6C8dXPVBsS4NVoF7aeWEbb": {
             "pending": 0,
-            "received": 59268.99606127511
+            "received": 61797.89374839909
         },
         "QcwDC8d4PgHTUunBcdvVXBQRnxyzpHoTor": {
             "pending": 0,
@@ -93,7 +93,7 @@
         },
         "QTssvafiwQTLJFQLZNyRKcHjWe93o6d2DV": {
             "pending": 0,
-            "received": 27392.647603782134
+            "received": 30138.210474987714
         },
         "Qa3zZiUJLx9gYHP6XWpMvYyZtXmQBUMisL": {
             "pending": 0,
@@ -101,7 +101,7 @@
         },
         "QY4duDqWcTxMTbb9yCWYkQC3zu2qVSpfS2": {
             "pending": 0.10299149740767913,
-            "received": 1830.7057125108504
+            "received": 2151.399447400919
         },
         "Qjd2PoGu6ohyudEHtwoPNDVDvfXVv2XeAF": {
             "pending": 0.0012793345950772494,
@@ -113,15 +113,19 @@
         },
         "QVhnHPar9YNUa5KFmgWPATALTztp8CMmGb": {
             "pending": 0,
-            "received": 2788.7862680810713
+            "received": 3424.237928136992
         },
         "QWxeeu3vCRcyWt32eqrooPaWZUXGT5XZje": {
             "pending": 0,
-            "received": 9999.443671236168
+            "received": 15127.395976819203
         },
         "QV1PwJaknjnhqBTLw8N6WTc19a17jPUvVY": {
             "pending": 0,
-            "received": 104.0512070239743
+            "received": 209.1807125579426
+        },
+        "QdCB76Z2BX9a1hTYTwANz5UV4BWq9vedDz": {
+            "pending": 0.012812696035213903,
+            "received": 0
         }
     }
 }
