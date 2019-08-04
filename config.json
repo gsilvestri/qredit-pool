@@ -13,7 +13,7 @@
 	"donationspercentage": {
 	},
 	"skip": [],
-	"GET_NET_HASH_ENDPOINT": "/api/blocks/getNethash",
+	"GET_NET_HASH_ENDPOINT": "/api/node/configuration",
 	"TRANSACTIONS_ENDPOINT": "/api/v2/transactions",
 	"HEADER_CONTENT_TYPE": "application/json",
 	"HEADER_OS": "qredit-pool",

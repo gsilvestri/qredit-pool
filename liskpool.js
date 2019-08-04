@@ -34,8 +34,8 @@ async function broadcastPayments(_config, _payments, _passphrases, _passphrasesF
 			}
 		});
 		logger.debug('NetHash: ' + JSON.stringify(nethashResponse, null, 4));
-		if (nethashResponse && nethashResponse.success && (nethashResponse.nethash === _config.MAIN_NET_NETHASH)) {
-			logger.info('Network NetHash: ' + nethashResponse.nethash);
+		if (nethashResponse && nethashResponse.data && (nethashResponse.data.nethash === _config.MAIN_NET_NETHASH)) {
+			logger.info('Network NetHash: ' + nethashResponse.data.nethash);
             /*
                 Cycle through payments
             */
