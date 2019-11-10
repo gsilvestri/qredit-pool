@@ -19,5 +19,6 @@
 	"HEADER_OS": "qredit-pool",
 	"HEADER_PORT": 4101,
 	"MESSAGE_1": "pool sharing - 90%: www.cryptdelegate.com",
-	"MESSAGE_2": "pool sharing: RCF"
+	"MESSAGE_2": "pool sharing: RCF",
+	"MESSAGE_3": "cashflow"
 }
