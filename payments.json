@@ -2,71 +2,70 @@
     "transactions": [
         {
             "recipientId": "QVSrmQCd7h9Y6C8dXPVBsS4NVoF7aeWEbb",
-            "amount": 487078700672
+            "amount": 861020541207
         },
         {
             "recipientId": "QfyJKz1ZxbkPRrGv6c1H99nFJMeXiSZqbp",
-            "amount": 140721831997
+            "amount": 248757311249
         },
         {
             "recipientId": "QdTtHQsEubw2aJtaxv8vkV4NiYv24P8AwW",
-            "amount": 126126005186
+            "amount": 222955922926
         },
         {
             "recipientId": "QTk1JMqW1fVwCB9pVp53koMwMtD6fGtgbB",
-            "amount": 111063020163
+            "amount": 196328727980
         },
         {
             "recipientId": "QbAUPhKp7f556kBCJSzBA2hwayi9kNBh5p",
-            "amount": 109398897710
+            "amount": 193387019354
         },
         {
             "recipientId": "QY768oLfuX9uWs6aYcY5JYg2aoZom1qTND",
-            "amount": 105928319990
+            "amount": 187251997021
         },
         {
             "recipientId": "QY4duDqWcTxMTbb9yCWYkQC3zu2qVSpfS2",
-            "amount": 66399948898
+            "amount": 117376760382
         },
         {
             "recipientId": "QgYGJh4U2gQqt5zy2BHhaifHmazgqJYjja",
-            "amount": 61425812262
+            "amount": 108583861386
         },
         {
             "recipientId": "Qbum9LP5fqdR3mvMfLd2ksQzadZMEEbVFT",
-            "amount": 42144237311
+            "amount": 74499365232
         },
         {
             "recipientId": "QYDefXMWZoZBEZxX5ipk79BcESwxzV7eNb",
-            "amount": 40873799640
+            "amount": 72253582510
         },
         {
             "recipientId": "QdNFhrZMJCza6w21DzJJTwP36urQAq4hTe",
-            "amount": 29326889031
+            "amount": 51885528468
         },
         {
             "recipientId": "QSyBEx2CMToXke2WFeWAuxsqN2CXrWF99P",
-            "amount": 19152769387
+            "amount": 33856803512
         },
         {
             "recipientId": "QdepdJT1t1KtiAvNidoizFMdAYP79uWseT",
-            "amount": 19149019206
+            "amount": 33850174228
         },
         {
             "recipientId": "QcwDC8d4PgHTUunBcdvVXBQRnxyzpHoTor",
-            "amount": 17504749856
+            "amount": 30971517343
         },
         {
             "recipientId": "QecSD4TQqNppyTCjSe1FU1VeuJqNDbGqrW",
-            "amount": 3391869872
-        }
-    ],
-    "transactionsPending": [
+            "amount": 5995888608
+        },
         {
             "recipientId": "QWqPK7As2LRs79QtxMkXyAESF7f3Hi3qaY",
-            "amount": 24738772
+            "amount": 22707792
         }
     ],
+    "transactionsPending": [],
     "donations": [],
     "donationsPercentage": []
 }
