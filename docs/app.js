@@ -19,6 +19,10 @@ app.controller('indexCtrl', function($scope, $http) {
     });
 
     $http.get('https://qredit.api.cryptdelegate.com/api/delegates/qredit_cryptography').then (function (res) {
-        $scope.delegate = res.data.delegate;
+        if (res.data) {
+            if (res.data.data) {
+                $scope.delegate = res.data.data;
+            }
+        }
     });
 });
